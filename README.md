@@ -1,6 +1,6 @@
 <h2>hi, i'm vitória! 🌷</h2>
 
-<img align="right" src="./assets/coding-cat.gif" alt="A cat wearing glasses at a laptop" />
+<img align="right" width="185" src="./assets/coding-cat.png" alt="A cat wearing glasses at a laptop" />
 
 <div align="justify">
 
