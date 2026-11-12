@@ -1,6 +1,6 @@
 <h2>hi, i'm vitória! 🌷</h2>
 
-<img align="right" width="175" src="./assets/coding-cat.png" alt="A cat wearing glasses at a laptop" />
+<img align="right" width="175" src="./assets/coding-cat.gif" alt="A cat wearing glasses at a laptop" />
 
 I'm a Computer Science student at the **Federal University of Uberlândia (UFU)**, Brazil. My interests include **artificial intelligence, data science, machine learning, and software engineering**.
 
