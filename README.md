@@ -8,8 +8,6 @@ I'm a Computer Science student at **UFU (Universidade Federal de Uberlândia)**,
 
 I'm part of **PET**, a university program focused on teaching, research, and community outreach. I've also been involved in undergraduate research in computer vision and deep learning.
 
-Through these experiences, I've learned that I really enjoy learning from others, exchanging ideas, and sharing what I know.
-
 Lately, I've been exploring generative AI and taking on bigger projects of my own. It's been so much fun (and a little challenging!) to turn my ideas into something real and figure things out along the way. :)
 
 </div>
