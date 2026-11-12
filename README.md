@@ -4,9 +4,9 @@
 
 <div align="justify">
 
-I'm a Computer Science student at the **Federal University of Uberlândia (UFU)**, Brazil. My interests include **artificial intelligence, data science, machine learning, and software engineering**.
+I'm a Computer Science student at **UFU (Universidade Federal de Uberlândia)**, Brazil. My interests include **artificial intelligence, data science, machine learning, and software engineering**.
 
-I'm part of **PET**, a Brazilian university program focused on teaching, research, and community outreach. I've also been involved in undergraduate research in computer vision and deep learning.
+I'm part of **PET**, a university program focused on teaching, research, and community outreach. I've also been involved in undergraduate research in computer vision and deep learning.
 
 Through these experiences, I've learned that I really enjoy learning from others, exchanging ideas, and sharing what I know.
 
