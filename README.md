@@ -13,11 +13,13 @@ Lately, I've been exploring generative AI and taking on bigger projects of my ow
 <br clear="right" />
 
 ### a few things i work with ✨
-
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,git,linux&theme=light" alt="Python, Java, PyTorch, scikit-learn, Git and Linux" />
+<img
+  src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,git,linux&theme=dark"
+  height="40"
+/>
 
 <br>
 
 <p align="center">
-  <sub><i>“Time is what turns kittens into cats.”</i> 🐈‍⬛</sub>
+  <i>“Time is what turns kittens into cats.”</i> 🐈‍⬛
 </p>
