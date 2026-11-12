@@ -8,7 +8,6 @@ I'm part of PET, a Brazilian university program focused on teaching, research, a
 
 Lately, I've been exploring generative AI and taking on bigger projects of my own. It's been so much fun (and a little challenging!) to turn my ideas into something real and figure things out along the way. :)
 
-<br clear="right" />
 
 ### a few things i work with ✨
 <img
