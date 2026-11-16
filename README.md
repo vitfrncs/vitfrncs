@@ -14,7 +14,7 @@ Lately, I've been exploring generative AI and taking on bigger projects of my ow
 
 <br clear="right" />
 
-### a few things i work with ✨
+### a few things i work with 
 <img
   src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,git,linux&theme=dark"
   height="40"
